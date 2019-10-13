@@ -3,4 +3,4 @@ def meal_choice(veg1, veg2, protien = "meat")
 end
  
 meal_choice("squash", "spinach", "meat")
-meal_choice("squash", "spinach")
+meal_choice("squash", "spinach", "tofu")
